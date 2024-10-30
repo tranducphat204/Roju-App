@@ -46,5 +46,5 @@ dependencies {
     androidTestImplementation(libs.espresso.core)
 
     implementation ("de.hdodenhof:circleimageview:3.1.0")
-    implementation ("io.github.cdimascio:dotenv-java:5.2.2")
+
 }
